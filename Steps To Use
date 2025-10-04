@@ -1,0 +1,3 @@
+Install dependencies: pip install scapy
+Run the script as root: sudo python3 PacketSniffer.py
+Watch live packet details in the terminal. CTRL + c to exit 
